@@ -1,0 +1,13 @@
+{
+  "name": "lunex-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot in Node.js",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "express": "^4.18.2"
+  }
+}
